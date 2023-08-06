@@ -11,7 +11,7 @@
 
 ## Explora Más
 
-Si deseas ver esta página en acción y experimentar el video de fondo, ¡no dudes en visitar la [versión en vivo](https://kamarroquin.github.io/video-background.github.io/)!
+Si deseas ver esta página en acción y experimentar el video de fondo, ¡no dudes en visitar la [versión en vivo](https://kamarroquin.github.io/video-background/)!
 
 
 ## Créditos
