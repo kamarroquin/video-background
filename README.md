@@ -6,11 +6,12 @@
 * Diseño Responsivo: El diseño se adapta de manera fluida a una variedad de dispositivos, desde pantallas de escritorio hasta dispositivos móviles, asegurando que todos los visitantes puedan disfrutar de la página en su máxima expresión.
 
 ## Capturas de Pantalla
+![image](https://github.com/kamarroquin/video-background.github.io/assets/89039973/7f12892e-a6db-4019-a467-1bfed1dadca5)
 
 
 ## Explora Más
 
-Si deseas ver esta página en acción y experimentar el video de fondo, ¡no dudes en visitar la [versión en vivo](enlace-a-la-pagina-en-vivo)!
+Si deseas ver esta página en acción y experimentar el video de fondo, ¡no dudes en visitar la [versión en vivo](https://kamarroquin.github.io/video-background.github.io/)!
 
 
 ## Créditos
